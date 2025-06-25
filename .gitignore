@@ -1,4 +1,23 @@
-target/classes/META-INF/maven/com.onlineLibrary/BetweenParagraphs/pom.properties
-target/classes/META-INF/MANIFEST.MF
-target/classes/META-INF/maven/com.onlineLibrary/BetweenParagraphs/pom.properties
-target/classes/META-INF/MANIFEST.MF
+# Java
+*.class
+
+# Maven
+target/
+
+# IDEs
+.idea/
+*.iml
+*.log
+*.swp
+*.DS_Store
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.~*
+
